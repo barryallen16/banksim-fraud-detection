@@ -1,0 +1,1322 @@
+Params: eps=1.73, min_samples=1, threshold=0.09
+  F1: 0.6009, Recall: 0.8402, Precision: 0.4677, Accuracy: 0.9865
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud         863    4537
+
+Params: eps=1.73, min_samples=2, threshold=0.09
+  F1: 0.5309, Recall: 0.7069, Precision: 0.4251, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud        1583    3817
+
+Params: eps=1.73, min_samples=3, threshold=0.09
+  F1: 0.5083, Recall: 0.6657, Precision: 0.4111, Accuracy: 0.9844
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435047    5149
+Fraud        1805    3595
+
+Params: eps=1.73, min_samples=1, threshold=0.095
+  F1: 0.6009, Recall: 0.8402, Precision: 0.4677, Accuracy: 0.9865
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud         863    4537
+
+Params: eps=1.73, min_samples=2, threshold=0.095
+  F1: 0.5309, Recall: 0.7069, Precision: 0.4251, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud        1583    3817
+
+Params: eps=1.73, min_samples=3, threshold=0.095
+  F1: 0.5083, Recall: 0.6657, Precision: 0.4111, Accuracy: 0.9844
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435047    5149
+Fraud        1805    3595
+
+Params: eps=1.73, min_samples=1, threshold=0.1
+  F1: 0.6048, Recall: 0.8376, Precision: 0.4733, Accuracy: 0.9867
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435162    5034
+Fraud         877    4523
+
+Params: eps=1.73, min_samples=2, threshold=0.1
+  F1: 0.5342, Recall: 0.7043, Precision: 0.4303, Accuracy: 0.9851
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435162    5034
+Fraud        1597    3803
+
+Params: eps=1.73, min_samples=3, threshold=0.1
+  F1: 0.5115, Recall: 0.6631, Precision: 0.4163, Accuracy: 0.9847
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435176    5020
+Fraud        1819    3581
+
+Params: eps=1.73, min_samples=1, threshold=0.105
+  F1: 0.6123, Recall: 0.8322, Precision: 0.4843, Accuracy: 0.9872
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435410    4786
+Fraud         906    4494
+
+Params: eps=1.73, min_samples=2, threshold=0.105
+  F1: 0.5407, Recall: 0.6989, Precision: 0.4409, Accuracy: 0.9856
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435410    4786
+Fraud        1626    3774
+
+Params: eps=1.73, min_samples=3, threshold=0.105
+  F1: 0.5176, Recall: 0.6578, Precision: 0.4267, Accuracy: 0.9851
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435424    4772
+Fraud        1848    3552
+
+Params: eps=1.73, min_samples=1, threshold=0.11
+  F1: 0.6123, Recall: 0.8322, Precision: 0.4843, Accuracy: 0.9872
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435410    4786
+Fraud         906    4494
+
+Params: eps=1.73, min_samples=2, threshold=0.11
+  F1: 0.5407, Recall: 0.6989, Precision: 0.4409, Accuracy: 0.9856
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435410    4786
+Fraud        1626    3774
+
+Params: eps=1.73, min_samples=3, threshold=0.11
+  F1: 0.5176, Recall: 0.6578, Precision: 0.4267, Accuracy: 0.9851
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435424    4772
+Fraud        1848    3552
+
+Params: eps=1.74, min_samples=1, threshold=0.09
+  F1: 0.6007, Recall: 0.8398, Precision: 0.4676, Accuracy: 0.9865
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud         865    4535
+
+Params: eps=1.74, min_samples=2, threshold=0.09
+  F1: 0.5314, Recall: 0.7078, Precision: 0.4254, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud        1578    3822
+
+Params: eps=1.74, min_samples=3, threshold=0.09
+  F1: 0.5091, Recall: 0.6670, Precision: 0.4116, Accuracy: 0.9844
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435047    5149
+Fraud        1798    3602
+
+Params: eps=1.74, min_samples=1, threshold=0.095
+  F1: 0.6007, Recall: 0.8398, Precision: 0.4676, Accuracy: 0.9865
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud         865    4535
+
+Params: eps=1.74, min_samples=2, threshold=0.095
+  F1: 0.5314, Recall: 0.7078, Precision: 0.4254, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435033    5163
+Fraud        1578    3822
+
+Params: eps=1.74, min_samples=3, threshold=0.095
+  F1: 0.5091, Recall: 0.6670, Precision: 0.4116, Accuracy: 0.9844
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435047    5149
+Fraud        1798    3602
+
+Params: eps=1.74, min_samples=1, threshold=0.1
+  F1: 0.6046, Recall: 0.8372, Precision: 0.4732, Accuracy: 0.9867
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435162    5034
+Fraud         879    4521
+
+Params: eps=1.74, min_samples=2, threshold=0.1
+  F1: 0.5348, Recall: 0.7052, Precision: 0.4307, Accuracy: 0.9851
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435162    5034
+Fraud        1592    3808
+
+Params: eps=1.74, min_samples=3, threshold=0.1
+  F1: 0.5123, Recall: 0.6644, Precision: 0.4168, Accuracy: 0.9847
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435176    5020
+Fraud        1812    3588
+
+Params: eps=1.74, min_samples=1, threshold=0.105
+  F1: 0.6087, Recall: 0.8343, Precision: 0.4792, Accuracy: 0.9870
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435299    4897
+Fraud         895    4505
+
+Params: eps=1.74, min_samples=2, threshold=0.105
+  F1: 0.5383, Recall: 0.7022, Precision: 0.4364, Accuracy: 0.9854
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435299    4897
+Fraud        1608    3792
+
+Params: eps=1.74, min_samples=3, threshold=0.105
+  F1: 0.5156, Recall: 0.6615, Precision: 0.4225, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435313    4883
+Fraud        1828    3572
+
+Params: eps=1.74, min_samples=1, threshold=0.11
+  F1: 0.6087, Recall: 0.8343, Precision: 0.4792, Accuracy: 0.9870
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435299    4897
+Fraud         895    4505
+
+Params: eps=1.74, min_samples=2, threshold=0.11
+  F1: 0.5383, Recall: 0.7022, Precision: 0.4364, Accuracy: 0.9854
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435299    4897
+Fraud        1608    3792
+
+Params: eps=1.74, min_samples=3, threshold=0.11
+  F1: 0.5156, Recall: 0.6615, Precision: 0.4225, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435313    4883
+Fraud        1828    3572
+
+Params: eps=1.75, min_samples=1, threshold=0.09
+  F1: 0.6007, Recall: 0.8398, Precision: 0.4676, Accuracy: 0.9865
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435032    5164
+Fraud         865    4535
+
+Params: eps=1.75, min_samples=2, threshold=0.09
+  F1: 0.5317, Recall: 0.7083, Precision: 0.4255, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435032    5164
+Fraud        1575    3825
+
+Params: eps=1.75, min_samples=3, threshold=0.09
+  F1: 0.5095, Recall: 0.6678, Precision: 0.4119, Accuracy: 0.9844
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435047    5149
+Fraud        1794    3606
+
+Params: eps=1.75, min_samples=1, threshold=0.095
+  F1: 0.6007, Recall: 0.8398, Precision: 0.4676, Accuracy: 0.9865
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435032    5164
+Fraud         865    4535
+
+Params: eps=1.75, min_samples=2, threshold=0.095
+  F1: 0.5317, Recall: 0.7083, Precision: 0.4255, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435032    5164
+Fraud        1575    3825
+
+Params: eps=1.75, min_samples=3, threshold=0.095
+  F1: 0.5095, Recall: 0.6678, Precision: 0.4119, Accuracy: 0.9844
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435047    5149
+Fraud        1794    3606
+
+
+Params: eps=1.75, min_samples=1, threshold=0.1
+  F1: 0.6043, Recall: 0.8363, Precision: 0.4731, Accuracy: 0.9867
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435166    5030
+Fraud         884    4516
+
+Params: eps=1.75, min_samples=2, threshold=0.1
+  F1: 0.5328, Recall: 0.7015, Precision: 0.4296, Accuracy: 0.9851
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435166    5030
+Fraud        1612    3788
+
+Params: eps=1.75, min_samples=3, threshold=0.1
+  F1: 0.5084, Recall: 0.6574, Precision: 0.4144, Accuracy: 0.9846
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435180    5016
+Fraud        1850    3550
+
+Params: eps=1.75, min_samples=1, threshold=0.105
+  F1: 0.6071, Recall: 0.8343, Precision: 0.4772, Accuracy: 0.9869
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435260    4936
+Fraud         895    4505
+
+Params: eps=1.75, min_samples=2, threshold=0.105
+  F1: 0.5353, Recall: 0.6994, Precision: 0.4335, Accuracy: 0.9853
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435260    4936
+Fraud        1623    3777
+
+Params: eps=1.75, min_samples=3, threshold=0.105
+  F1: 0.5106, Recall: 0.6554, Precision: 0.4183, Accuracy: 0.9848
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435274    4922
+Fraud        1861    3539
+
+Params: eps=1.75, min_samples=1, threshold=0.11
+  F1: 0.6095, Recall: 0.8324, Precision: 0.4808, Accuracy: 0.9871
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435342    4854
+Fraud         905    4495
+
+Params: eps=1.75, min_samples=2, threshold=0.11
+  F1: 0.5373, Recall: 0.6976, Precision: 0.4370, Accuracy: 0.9854
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435342    4854
+Fraud        1633    3767
+
+Params: eps=1.75, min_samples=3, threshold=0.11
+  F1: 0.5126, Recall: 0.6535, Precision: 0.4217, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435356    4840
+Fraud        1871    3529
+
+Params: eps=1.76, min_samples=1, threshold=0.09
+  F1: 0.5980, Recall: 0.8394, Precision: 0.4644, Accuracy: 0.9863
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  434969    5227
+Fraud         867    4533
+
+Params: eps=1.76, min_samples=2, threshold=0.09
+  F1: 0.5281, Recall: 0.7061, Precision: 0.4218, Accuracy: 0.9847
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  434969    5227
+Fraud        1587    3813
+
+Params: eps=1.76, min_samples=3, threshold=0.09
+  F1: 0.5038, Recall: 0.6619, Precision: 0.4067, Accuracy: 0.9842
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  434982    5214
+Fraud        1826    3574
+
+Params: eps=1.76, min_samples=1, threshold=0.095
+  F1: 0.5998, Recall: 0.8383, Precision: 0.4669, Accuracy: 0.9864
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435027    5169
+Fraud         873    4527
+
+Params: eps=1.76, min_samples=2, threshold=0.095
+  F1: 0.5296, Recall: 0.7050, Precision: 0.4241, Accuracy: 0.9848
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435027    5169
+Fraud        1593    3807
+
+Params: eps=1.76, min_samples=3, threshold=0.095
+  F1: 0.5052, Recall: 0.6607, Precision: 0.4090, Accuracy: 0.9843
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435040    5156
+Fraud        1832    3568
+
+Params: eps=1.76, min_samples=1, threshold=0.1
+  F1: 0.6040, Recall: 0.8356, Precision: 0.4729, Accuracy: 0.9867
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435167    5029
+Fraud         888    4512
+
+Params: eps=1.76, min_samples=2, threshold=0.1
+  F1: 0.5333, Recall: 0.7022, Precision: 0.4299, Accuracy: 0.9851
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435167    5029
+Fraud        1608    3792
+
+Params: eps=1.76, min_samples=3, threshold=0.1
+  F1: 0.5087, Recall: 0.6580, Precision: 0.4146, Accuracy: 0.9846
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435180    5016
+Fraud        1847    3553
+
+Params: eps=1.76, min_samples=1, threshold=0.105
+  F1: 0.6068, Recall: 0.8335, Precision: 0.4770, Accuracy: 0.9869
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435261    4935
+Fraud         899    4501
+
+Params: eps=1.76, min_samples=2, threshold=0.105
+  F1: 0.5357, Recall: 0.7002, Precision: 0.4338, Accuracy: 0.9853
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435261    4935
+Fraud        1619    3781
+
+Params: eps=1.76, min_samples=3, threshold=0.105
+  F1: 0.5110, Recall: 0.6559, Precision: 0.4185, Accuracy: 0.9848
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435274    4922
+Fraud        1858    3542
+
+Params: eps=1.76, min_samples=1, threshold=0.11
+  F1: 0.6092, Recall: 0.8317, Precision: 0.4806, Accuracy: 0.9871
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435343    4853
+Fraud         909    4491
+
+Params: eps=1.76, min_samples=2, threshold=0.11
+  F1: 0.5378, Recall: 0.6983, Precision: 0.4373, Accuracy: 0.9855
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435343    4853
+Fraud        1629    3771
+
+Params: eps=1.76, min_samples=3, threshold=0.11
+  F1: 0.5129, Recall: 0.6541, Precision: 0.4219, Accuracy: 0.9849
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435356    4840
+Fraud        1868    3532
+
+Params: eps=1.77, min_samples=1, threshold=0.09
+  F1: 0.5980, Recall: 0.8394, Precision: 0.4644, Accuracy: 0.9863
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  434968    5228
+Fraud         867    4533
+
+Params: eps=1.77, min_samples=2, threshold=0.09
+  F1: 0.5288, Recall: 0.7074, Precision: 0.4222, Accuracy: 0.9847
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  434968    5228
+Fraud        1580    3820
+
+Params: eps=1.77, min_samples=3, threshold=0.09
+  F1: 0.5055, Recall: 0.6650, Precision: 0.4077, Accuracy: 0.9842
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  434979    5217
+Fraud        1809    3591
+
+Params: eps=1.77, min_samples=1, threshold=0.095
+  F1: 0.5997, Recall: 0.8383, Precision: 0.4668, Accuracy: 0.9864
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435026    5170
+Fraud         873    4527
+
+Params: eps=1.77, min_samples=2, threshold=0.095
+  F1: 0.5303, Recall: 0.7063, Precision: 0.4245, Accuracy: 0.9848
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435026    5170
+Fraud        1586    3814
+
+Params: eps=1.77, min_samples=3, threshold=0.095
+  F1: 0.5069, Recall: 0.6639, Precision: 0.4100, Accuracy: 0.9843
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435037    5159
+Fraud        1815    3585
+
+Params: eps=1.77, min_samples=1, threshold=0.1
+  F1: 0.6039, Recall: 0.8356, Precision: 0.4729, Accuracy: 0.9867
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435166    5030
+Fraud         888    4512
+
+Params: eps=1.77, min_samples=2, threshold=0.1
+  F1: 0.5340, Recall: 0.7035, Precision: 0.4303, Accuracy: 0.9851
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435166    5030
+Fraud        1601    3799
+
+Params: eps=1.77, min_samples=3, threshold=0.1
+  F1: 0.5104, Recall: 0.6611, Precision: 0.4156, Accuracy: 0.9846
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435177    5019
+Fraud        1830    3570
+
+Params: eps=1.77, min_samples=1, threshold=0.105
+  F1: 0.6067, Recall: 0.8335, Precision: 0.4770, Accuracy: 0.9869
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435260    4936
+Fraud         899    4501
+
+Params: eps=1.77, min_samples=2, threshold=0.105
+  F1: 0.5364, Recall: 0.7015, Precision: 0.4342, Accuracy: 0.9853
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435260    4936
+Fraud        1612    3788
+
+Params: eps=1.77, min_samples=3, threshold=0.105
+  F1: 0.5127, Recall: 0.6591, Precision: 0.4195, Accuracy: 0.9848
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435271    4925
+Fraud        1841    3559
+
+Params: eps=1.77, min_samples=1, threshold=0.11
+  F1: 0.6092, Recall: 0.8317, Precision: 0.4806, Accuracy: 0.9871
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435342    4854
+Fraud         909    4491
+
+Params: eps=1.77, min_samples=2, threshold=0.11
+  F1: 0.5385, Recall: 0.6996, Precision: 0.4377, Accuracy: 0.9855
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435342    4854
+Fraud        1622    3778
+
+Params: eps=1.77, min_samples=3, threshold=0.11
+  F1: 0.5146, Recall: 0.6572, Precision: 0.4229, Accuracy: 0.9850
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435353    4843
+Fraud        1851    3549
+
+Params: eps=1.74, min_samples=1, threshold=0.105
+  F1: 0.6166, Recall: 0.8270, Precision: 0.4915, Accuracy: 0.9875
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435576    4620
+Fraud         934    4466
+
+Params: eps=1.74, min_samples=1, threshold=0.11
+  F1: 0.6310, Recall: 0.8172, Precision: 0.5139, Accuracy: 0.9884
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436021    4175
+Fraud         987    4413
+
+Params: eps=1.74, min_samples=1, threshold=0.115
+  F1: 0.6336, Recall: 0.8154, Precision: 0.5181, Accuracy: 0.9886
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436100    4096
+Fraud         997    4403
+
+Params: eps=1.74, min_samples=1, threshold=0.12
+  F1: 0.6407, Recall: 0.8102, Precision: 0.5298, Accuracy: 0.9890
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436313    3883
+Fraud        1025    4375
+
+Params: eps=1.75, min_samples=1, threshold=0.105
+  F1: 0.6165, Recall: 0.8269, Precision: 0.4915, Accuracy: 0.9875
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435576    4620
+Fraud         935    4465
+
+Params: eps=1.75, min_samples=1, threshold=0.11
+  F1: 0.6309, Recall: 0.8170, Precision: 0.5138, Accuracy: 0.9884
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436021    4175
+Fraud         988    4412
+
+Params: eps=1.75, min_samples=1, threshold=0.115
+  F1: 0.6335, Recall: 0.8152, Precision: 0.5180, Accuracy: 0.9886
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436100    4096
+Fraud         998    4402
+
+Params: eps=1.75, min_samples=1, threshold=0.12
+  F1: 0.6406, Recall: 0.8100, Precision: 0.5297, Accuracy: 0.9890
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436313    3883
+Fraud        1026    4374
+
+Params: eps=1.76, min_samples=1, threshold=0.105
+  F1: 0.6162, Recall: 0.8263, Precision: 0.4913, Accuracy: 0.9875
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435576    4620
+Fraud         938    4462
+
+Params: eps=1.76, min_samples=1, threshold=0.11
+  F1: 0.6265, Recall: 0.8193, Precision: 0.5071, Accuracy: 0.9882
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435896    4300
+Fraud         976    4424
+
+Params: eps=1.76, min_samples=1, threshold=0.115
+  F1: 0.6331, Recall: 0.8144, Precision: 0.5178, Accuracy: 0.9886
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436100    4096
+Fraud        1002    4398
+
+Params: eps=1.76, min_samples=1, threshold=0.12
+  F1: 0.6402, Recall: 0.8093, Precision: 0.5295, Accuracy: 0.9890
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436313    3883
+Fraud        1030    4370
+
+Params: eps=1.77, min_samples=1, threshold=0.105
+  F1: 0.6158, Recall: 0.8256, Precision: 0.4910, Accuracy: 0.9875
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435575    4621
+Fraud         942    4458
+
+
+Params: eps=1.77, min_samples=1, threshold=0.11
+  F1: 0.6218, Recall: 0.8265, Precision: 0.4983, Accuracy: 0.9878
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435703    4493
+Fraud         937    4463
+
+Params: eps=1.77, min_samples=1, threshold=0.115
+  F1: 0.6276, Recall: 0.8220, Precision: 0.5076, Accuracy: 0.9882
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435890    4306
+Fraud         961    4439
+
+Params: eps=1.77, min_samples=1, threshold=0.12
+  F1: 0.6342, Recall: 0.8170, Precision: 0.5183, Accuracy: 0.9886
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436095    4101
+Fraud         988    4412
+
+Params: eps=1.78, min_samples=1, threshold=0.105
+  F1: 0.6188, Recall: 0.8283, Precision: 0.4939, Accuracy: 0.9876
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435612    4584
+Fraud         927    4473
+
+Params: eps=1.78, min_samples=1, threshold=0.11
+  F1: 0.6217, Recall: 0.8263, Precision: 0.4983, Accuracy: 0.9878
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435703    4493
+Fraud         938    4462
+
+Params: eps=1.78, min_samples=1, threshold=0.115
+  F1: 0.6275, Recall: 0.8219, Precision: 0.5075, Accuracy: 0.9882
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435890    4306
+Fraud         962    4438
+
+Params: eps=1.78, min_samples=1, threshold=0.12
+  F1: 0.6341, Recall: 0.8169, Precision: 0.5182, Accuracy: 0.9886
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436095    4101
+Fraud         989    4411
+
+Params: eps=1.74, min_samples=1, threshold=0.12
+  F1: 0.6263, Recall: 0.8185, Precision: 0.5072, Accuracy: 0.9882
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435902    4294
+Fraud         980    4420
+
+Params: eps=1.74, min_samples=1, threshold=0.125
+  F1: 0.6348, Recall: 0.8115, Precision: 0.5212, Accuracy: 0.9887
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436171    4025
+Fraud        1018    4382
+
+Params: eps=1.74, min_samples=1, threshold=0.13
+  F1: 0.6406, Recall: 0.8065, Precision: 0.5314, Accuracy: 0.9890
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436355    3841
+Fraud        1045    4355
+
+Params: eps=1.75, min_samples=1, threshold=0.12
+  F1: 0.6262, Recall: 0.8183, Precision: 0.5072, Accuracy: 0.9882
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435902    4294
+Fraud         981    4419
+
+Params: eps=1.75, min_samples=1, threshold=0.125
+  F1: 0.6347, Recall: 0.8113, Precision: 0.5212, Accuracy: 0.9887
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436171    4025
+Fraud        1019    4381
+
+Params: eps=1.75, min_samples=1, threshold=0.13
+  F1: 0.6405, Recall: 0.8063, Precision: 0.5313, Accuracy: 0.9890
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436355    3841
+Fraud        1046    4354
+
+Params: eps=1.76, min_samples=1, threshold=0.12
+  F1: 0.6259, Recall: 0.8178, Precision: 0.5070, Accuracy: 0.9882
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435902    4294
+Fraud         984    4416
+
+Params: eps=1.76, min_samples=1, threshold=0.125
+  F1: 0.6344, Recall: 0.8107, Precision: 0.5210, Accuracy: 0.9887
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436171    4025
+Fraud        1022    4378
+
+Params: eps=1.76, min_samples=1, threshold=0.13
+  F1: 0.6402, Recall: 0.8057, Precision: 0.5311, Accuracy: 0.9890
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436355    3841
+Fraud        1049    4351
+
+Params: eps=1.77, min_samples=1, threshold=0.12
+  F1: 0.6253, Recall: 0.8181, Precision: 0.5060, Accuracy: 0.9881
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435883    4313
+Fraud         982    4418
+
+Params: eps=1.77, min_samples=1, threshold=0.125
+  F1: 0.6319, Recall: 0.8126, Precision: 0.5169, Accuracy: 0.9885
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436095    4101
+Fraud        1012    4388
+
+Params: eps=1.77, min_samples=1, threshold=0.13
+  F1: 0.6377, Recall: 0.8076, Precision: 0.5268, Accuracy: 0.9889
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436279    3917
+Fraud        1039    4361
+
+Params: eps=1.78, min_samples=1, threshold=0.12
+  F1: 0.6252, Recall: 0.8180, Precision: 0.5060, Accuracy: 0.9881
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  435883    4313
+Fraud         983    4417
+
+Params: eps=1.78, min_samples=1, threshold=0.125
+  F1: 0.6318, Recall: 0.8124, Precision: 0.5168, Accuracy: 0.9885
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436095    4101
+Fraud        1013    4387
+
+Params: eps=1.78, min_samples=1, threshold=0.13
+  F1: 0.6376, Recall: 0.8074, Precision: 0.5268, Accuracy: 0.9889
+confusion matrix:
+
+Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  436279    3917
+Fraud        1040    4360
+
+Params: eps=1.74, min_samples=1, threshold=0.13
+  F1: 0.6365, Recall: 0.8061, Precision: 0.5258, Accuracy: 0.9888
+
+Params: eps=1.74, min_samples=1, threshold=0.135
+  F1: 0.6369, Recall: 0.8057, Precision: 0.5265, Accuracy: 0.9889
+
+Params: eps=1.74, min_samples=1, threshold=0.14
+  F1: 0.6394, Recall: 0.8033, Precision: 0.5310, Accuracy: 0.9890
+
+Params: eps=1.745, min_samples=1, threshold=0.13
+  F1: 0.6362, Recall: 0.8057, Precision: 0.5256, Accuracy: 0.9888
+
+Params: eps=1.745, min_samples=1, threshold=0.135
+  F1: 0.6366, Recall: 0.8054, Precision: 0.5263, Accuracy: 0.9889
+
+Params: eps=1.745, min_samples=1, threshold=0.14
+  F1: 0.6392, Recall: 0.8030, Precision: 0.5309, Accuracy: 0.9890
+
+Params: eps=1.75, min_samples=1, threshold=0.13
+  F1: 0.6362, Recall: 0.8057, Precision: 0.5256, Accuracy: 0.9888
+
+Params: eps=1.75, min_samples=1, threshold=0.135
+  F1: 0.6366, Recall: 0.8054, Precision: 0.5263, Accuracy: 0.9889
+
+Params: eps=1.75, min_samples=1, threshold=0.14
+  F1: 0.6392, Recall: 0.8030, Precision: 0.5309, Accuracy: 0.9890
+
+Params: eps=1.735, min_samples=1, threshold=0.125
+  F1: 0.6369, Recall: 0.8150, Precision: 0.5226, Accuracy: 0.9887
+
+Params: eps=1.735, min_samples=1, threshold=0.13
+  F1: 0.6369, Recall: 0.8150, Precision: 0.5226, Accuracy: 0.9887
+
+Params: eps=1.735, min_samples=1, threshold=0.135
+  F1: 0.6369, Recall: 0.8150, Precision: 0.5226, Accuracy: 0.9887
+
+Params: eps=1.74, min_samples=1, threshold=0.125
+  F1: 0.6361, Recall: 0.8146, Precision: 0.5218, Accuracy: 0.9887
+
+Params: eps=1.74, min_samples=1, threshold=0.13
+  F1: 0.6361, Recall: 0.8146, Precision: 0.5218, Accuracy: 0.9887
+
+Params: eps=1.74, min_samples=1, threshold=0.135
+  F1: 0.6361, Recall: 0.8146, Precision: 0.5218, Accuracy: 0.9887
+
+Params: eps=1.745, min_samples=1, threshold=0.125
+  F1: 0.6361, Recall: 0.8146, Precision: 0.5218, Accuracy: 0.9887
+
+Params: eps=1.745, min_samples=1, threshold=0.13
+  F1: 0.6361, Recall: 0.8146, Precision: 0.5218, Accuracy: 0.9887
+
+Params: eps=1.745, min_samples=1, threshold=0.135
+  F1: 0.6361, Recall: 0.8146, Precision: 0.5218, Accuracy: 0.9887
+
+Params: eps=1.73, min_samples=1, threshold=0.115
+  F1: 0.6392, Recall: 0.8139, Precision: 0.5263, Accuracy: 0.9889
+
+Params: eps=1.73, min_samples=1, threshold=0.12
+  F1: 0.6405, Recall: 0.8130, Precision: 0.5284, Accuracy: 0.9889
+
+Params: eps=1.73, min_samples=1, threshold=0.125
+  F1: 0.6405, Recall: 0.8130, Precision: 0.5284, Accuracy: 0.9889
+
+Params: eps=1.735, min_samples=1, threshold=0.115
+  F1: 0.6391, Recall: 0.8137, Precision: 0.5262, Accuracy: 0.9889
+
+Params: eps=1.735, min_samples=1, threshold=0.12
+  F1: 0.6404, Recall: 0.8128, Precision: 0.5283, Accuracy: 0.9889
+
+Params: eps=1.735, min_samples=1, threshold=0.125
+  F1: 0.6404, Recall: 0.8128, Precision: 0.5283, Accuracy: 0.9889
+
+Params: eps=1.74, min_samples=1, threshold=0.115
+  F1: 0.6391, Recall: 0.8135, Precision: 0.5262, Accuracy: 0.9889
+
+Params: eps=1.74, min_samples=1, threshold=0.12
+  F1: 0.6404, Recall: 0.8126, Precision: 0.5284, Accuracy: 0.9889
+
+Params: eps=1.74, min_samples=1, threshold=0.125
+  F1: 0.6404, Recall: 0.8126, Precision: 0.5284, Accuracy: 0.9889
+
+Params: eps=1.725, min_samples=1, threshold=0.115
+  F1: 0.6358, Recall: 0.8189, Precision: 0.5196, Accuracy: 0.9886
+
+Params: eps=1.725, min_samples=1, threshold=0.1175
+  F1: 0.6358, Recall: 0.8189, Precision: 0.5196, Accuracy: 0.9886
+
+Params: eps=1.725, min_samples=1, threshold=0.12
+  F1: 0.6358, Recall: 0.8189, Precision: 0.5196, Accuracy: 0.9886
+
+Params: eps=1.73, min_samples=1, threshold=0.115
+  F1: 0.6354, Recall: 0.8187, Precision: 0.5192, Accuracy: 0.9886
+
+Params: eps=1.73, min_samples=1, threshold=0.1175
+  F1: 0.6367, Recall: 0.8178, Precision: 0.5212, Accuracy: 0.9887
+
+Params: eps=1.73, min_samples=1, threshold=0.12
+  F1: 0.6367, Recall: 0.8178, Precision: 0.5212, Accuracy: 0.9887
+
+Params: eps=1.735, min_samples=1, threshold=0.115
+  F1: 0.6347, Recall: 0.8187, Precision: 0.5182, Accuracy: 0.9886
+
+Params: eps=1.735, min_samples=1, threshold=0.1175
+  F1: 0.6359, Recall: 0.8178, Precision: 0.5203, Accuracy: 0.9887
+
+Params: eps=1.735, min_samples=1, threshold=0.12
+  F1: 0.6359, Recall: 0.8178, Precision: 0.5203, Accuracy: 0.9887
+
+
+Approximately 70 different combinations of parameters , so 7 hours 

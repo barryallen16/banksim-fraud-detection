@@ -1,0 +1,3709 @@
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3933    1467
+Recall: 0.2717 | Precision: 0.9557
+F1: 0.4231 | AUC: 0.6358
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9623
+F1: 0.4039 | AUC: 0.6277
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.08, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1373     427
+Recall: 0.2372 | Precision: 0.9596
+F1: 0.3804 | AUC: 0.6185
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.08, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        4008    1392
+Recall: 0.2578 | Precision: 0.9541
+F1: 0.4059 | AUC: 0.6288
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1394     406
+Recall: 0.2256 | Precision: 0.9575
+F1: 0.3651 | AUC: 0.6127
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3933    1467
+Recall: 0.2717 | Precision: 0.9557
+F1: 0.4231 | AUC: 0.6358
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9623
+F1: 0.4039 | AUC: 0.6277
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.1, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1373     427
+Recall: 0.2372 | Precision: 0.9596
+F1: 0.3804 | AUC: 0.6185
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        4008    1392
+Recall: 0.2578 | Precision: 0.9541
+F1: 0.4059 | AUC: 0.6288
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1394     406
+Recall: 0.2256 | Precision: 0.9575
+F1: 0.3651 | AUC: 0.6127
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.12, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3933    1467
+Recall: 0.2717 | Precision: 0.9557
+F1: 0.4231 | AUC: 0.6358
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9623
+F1: 0.4039 | AUC: 0.6277
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.12, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1373     427
+Recall: 0.2372 | Precision: 0.9596
+F1: 0.3804 | AUC: 0.6185
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.12, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        4008    1392
+Recall: 0.2578 | Precision: 0.9541
+F1: 0.4059 | AUC: 0.6288
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1394     406
+Recall: 0.2256 | Precision: 0.9575
+F1: 0.3651 | AUC: 0.6127
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3933    1467
+Recall: 0.2717 | Precision: 0.9557
+F1: 0.4231 | AUC: 0.6358
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9623
+F1: 0.4039 | AUC: 0.6277
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.15, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1373     427
+Recall: 0.2372 | Precision: 0.9596
+F1: 0.3804 | AUC: 0.6185
+
+Evaluating: {'eps': 2.3, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        4008    1392
+Recall: 0.2578 | Precision: 0.9541
+F1: 0.4059 | AUC: 0.6288
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1394     406
+Recall: 0.2256 | Precision: 0.9575
+F1: 0.3651 | AUC: 0.6127
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3923    1477
+Recall: 0.2735 | Precision: 0.9560
+F1: 0.4253 | AUC: 0.6367
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1333     467
+Recall: 0.2594 | Precision: 0.9629
+F1: 0.4088 | AUC: 0.6297
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.08, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3940    1460
+Recall: 0.2704 | Precision: 0.9561
+F1: 0.4215 | AUC: 0.6351
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1357     443
+Recall: 0.2461 | Precision: 0.9610
+F1: 0.3919 | AUC: 0.6230
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.08, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3972    1428
+Recall: 0.2644 | Precision: 0.9552
+F1: 0.4142 | AUC: 0.6321
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1383     417
+Recall: 0.2317 | Precision: 0.9586
+F1: 0.3732 | AUC: 0.6158
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3923    1477
+Recall: 0.2735 | Precision: 0.9560
+F1: 0.4253 | AUC: 0.6367
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1333     467
+Recall: 0.2594 | Precision: 0.9629
+F1: 0.4088 | AUC: 0.6297
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.1, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3940    1460
+Recall: 0.2704 | Precision: 0.9561
+F1: 0.4215 | AUC: 0.6351
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1357     443
+Recall: 0.2461 | Precision: 0.9610
+F1: 0.3919 | AUC: 0.6230
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3972    1428
+Recall: 0.2644 | Precision: 0.9552
+F1: 0.4142 | AUC: 0.6321
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1383     417
+Recall: 0.2317 | Precision: 0.9586
+F1: 0.3732 | AUC: 0.6158
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.12, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3923    1477
+Recall: 0.2735 | Precision: 0.9560
+F1: 0.4253 | AUC: 0.6367
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1333     467
+Recall: 0.2594 | Precision: 0.9629
+F1: 0.4088 | AUC: 0.6297
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.12, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3940    1460
+Recall: 0.2704 | Precision: 0.9561
+F1: 0.4215 | AUC: 0.6351
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1357     443
+Recall: 0.2461 | Precision: 0.9610
+F1: 0.3919 | AUC: 0.6230
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.12, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3972    1428
+Recall: 0.2644 | Precision: 0.9552
+F1: 0.4142 | AUC: 0.6321
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1383     417
+Recall: 0.2317 | Precision: 0.9586
+F1: 0.3732 | AUC: 0.6158
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3923    1477
+Recall: 0.2735 | Precision: 0.9560
+F1: 0.4253 | AUC: 0.6367
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1333     467
+Recall: 0.2594 | Precision: 0.9629
+F1: 0.4088 | AUC: 0.6297
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.15, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3940    1460
+Recall: 0.2704 | Precision: 0.9561
+F1: 0.4215 | AUC: 0.6351
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1357     443
+Recall: 0.2461 | Precision: 0.9610
+F1: 0.3919 | AUC: 0.6230
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3972    1428
+Recall: 0.2644 | Precision: 0.9552
+F1: 0.4142 | AUC: 0.6321
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1383     417
+Recall: 0.2317 | Precision: 0.9586
+F1: 0.3732 | AUC: 0.6158
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3913    1487
+Recall: 0.2754 | Precision: 0.9563
+F1: 0.4276 | AUC: 0.6376
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1344     456
+Recall: 0.2533 | Precision: 0.9620
+F1: 0.4011 | AUC: 0.6266
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.08, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3926    1474
+Recall: 0.2730 | Precision: 0.9559
+F1: 0.4247 | AUC: 0.6364
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1341     459
+Recall: 0.2550 | Precision: 0.9623
+F1: 0.4032 | AUC: 0.6274
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.08, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3943    1457
+Recall: 0.2698 | Precision: 0.9554
+F1: 0.4208 | AUC: 0.6348
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1368     432
+Recall: 0.2400 | Precision: 0.9600
+F1: 0.3840 | AUC: 0.6199
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3913    1487
+Recall: 0.2754 | Precision: 0.9563
+F1: 0.4276 | AUC: 0.6376
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1344     456
+Recall: 0.2533 | Precision: 0.9620
+F1: 0.4011 | AUC: 0.6266
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.1, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3926    1474
+Recall: 0.2730 | Precision: 0.9559
+F1: 0.4247 | AUC: 0.6364
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1341     459
+Recall: 0.2550 | Precision: 0.9623
+F1: 0.4032 | AUC: 0.6274
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3943    1457
+Recall: 0.2698 | Precision: 0.9554
+F1: 0.4208 | AUC: 0.6348
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1368     432
+Recall: 0.2400 | Precision: 0.9600
+F1: 0.3840 | AUC: 0.6199
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.12, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3913    1487
+Recall: 0.2754 | Precision: 0.9563
+F1: 0.4276 | AUC: 0.6376
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1344     456
+Recall: 0.2533 | Precision: 0.9620
+F1: 0.4011 | AUC: 0.6266
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.12, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3926    1474
+Recall: 0.2730 | Precision: 0.9559
+F1: 0.4247 | AUC: 0.6364
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1341     459
+Recall: 0.2550 | Precision: 0.9623
+F1: 0.4032 | AUC: 0.6274
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.12, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3943    1457
+Recall: 0.2698 | Precision: 0.9554
+F1: 0.4208 | AUC: 0.6348
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1368     432
+Recall: 0.2400 | Precision: 0.9600
+F1: 0.3840 | AUC: 0.6199
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3913    1487
+Recall: 0.2754 | Precision: 0.9563
+F1: 0.4276 | AUC: 0.6376
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1344     456
+Recall: 0.2533 | Precision: 0.9620
+F1: 0.4011 | AUC: 0.6266
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.15, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3926    1474
+Recall: 0.2730 | Precision: 0.9559
+F1: 0.4247 | AUC: 0.6364
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1341     459
+Recall: 0.2550 | Precision: 0.9623
+F1: 0.4032 | AUC: 0.6274
+
+Evaluating: {'eps': 2.7, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3943    1457
+Recall: 0.2698 | Precision: 0.9554
+F1: 0.4208 | AUC: 0.6348
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1368     432
+Recall: 0.2400 | Precision: 0.9600
+F1: 0.3840 | AUC: 0.6199
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3894    1506
+Recall: 0.2789 | Precision: 0.9568
+F1: 0.4319 | AUC: 0.6394
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1332     468
+Recall: 0.2600 | Precision: 0.9630
+F1: 0.4094 | AUC: 0.6299
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.08, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3909    1491
+Recall: 0.2761 | Precision: 0.9564
+F1: 0.4285 | AUC: 0.6380
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1355     445
+Recall: 0.2472 | Precision: 0.9611
+F1: 0.3933 | AUC: 0.6235
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.08, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3924    1476
+Recall: 0.2733 | Precision: 0.9560
+F1: 0.4251 | AUC: 0.6366
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1353     447
+Recall: 0.2483 | Precision: 0.9613
+F1: 0.3947 | AUC: 0.6241
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3894    1506
+Recall: 0.2789 | Precision: 0.9568
+F1: 0.4319 | AUC: 0.6394
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1332     468
+Recall: 0.2600 | Precision: 0.9630
+F1: 0.4094 | AUC: 0.6299
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.1, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3909    1491
+Recall: 0.2761 | Precision: 0.9564
+F1: 0.4285 | AUC: 0.6380
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1355     445
+Recall: 0.2472 | Precision: 0.9611
+F1: 0.3933 | AUC: 0.6235
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3924    1476
+Recall: 0.2733 | Precision: 0.9560
+F1: 0.4251 | AUC: 0.6366
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1353     447
+Recall: 0.2483 | Precision: 0.9613
+F1: 0.3947 | AUC: 0.6241
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.12, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3894    1506
+Recall: 0.2789 | Precision: 0.9568
+F1: 0.4319 | AUC: 0.6394
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1332     468
+Recall: 0.2600 | Precision: 0.9630
+F1: 0.4094 | AUC: 0.6299
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.12, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3909    1491
+Recall: 0.2761 | Precision: 0.9564
+F1: 0.4285 | AUC: 0.6380
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1355     445
+Recall: 0.2472 | Precision: 0.9611
+F1: 0.3933 | AUC: 0.6235
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.12, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3924    1476
+Recall: 0.2733 | Precision: 0.9560
+F1: 0.4251 | AUC: 0.6366
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1353     447
+Recall: 0.2483 | Precision: 0.9613
+F1: 0.3947 | AUC: 0.6241
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3894    1506
+Recall: 0.2789 | Precision: 0.9568
+F1: 0.4319 | AUC: 0.6394
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1332     468
+Recall: 0.2600 | Precision: 0.9630
+F1: 0.4094 | AUC: 0.6299
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.15, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3909    1491
+Recall: 0.2761 | Precision: 0.9564
+F1: 0.4285 | AUC: 0.6380
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1355     445
+Recall: 0.2472 | Precision: 0.9611
+F1: 0.3933 | AUC: 0.6235
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3924    1476
+Recall: 0.2733 | Precision: 0.9560
+F1: 0.4251 | AUC: 0.6366
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1353     447
+Recall: 0.2483 | Precision: 0.9613
+F1: 0.3947 | AUC: 0.6241
+
+=== BEST MODEL ===
+Parameters: eps=3.0, min_samples=3, threshold=0.08
+Test F1: 0.4094 | Recall: 0.2600
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378383   61774
+Fraud          42    5358
+Recall: 0.9922 | Precision: 0.0798
+F1: 0.1477 | AUC: 0.9259
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126245   20474
+Fraud          49    1751
+Recall: 0.9728 | Precision: 0.0788
+F1: 0.1458 | AUC: 0.9166
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378383   61774
+Fraud          57    5343
+Recall: 0.9894 | Precision: 0.0796
+F1: 0.1474 | AUC: 0.9245
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126245   20474
+Fraud          61    1739
+Recall: 0.9661 | Precision: 0.0783
+F1: 0.1448 | AUC: 0.9133
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3897    1503
+Recall: 0.2783 | Precision: 0.9635
+F1: 0.4319 | AUC: 0.6391
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1318     482
+Recall: 0.2678 | Precision: 0.9432
+F1: 0.4171 | AUC: 0.6338
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.08, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3912    1488
+Recall: 0.2756 | Precision: 0.9631
+F1: 0.4285 | AUC: 0.6377
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1330     470
+Recall: 0.2611 | Precision: 0.9419
+F1: 0.4089 | AUC: 0.6305
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3897    1503
+Recall: 0.2783 | Precision: 0.9635
+F1: 0.4319 | AUC: 0.6391
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1318     482
+Recall: 0.2678 | Precision: 0.9432
+F1: 0.4171 | AUC: 0.6338
+
+Evaluating: {'eps': 3.0, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3912    1488
+Recall: 0.2756 | Precision: 0.9631
+F1: 0.4285 | AUC: 0.6377
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1330     470
+Recall: 0.2611 | Precision: 0.9419
+F1: 0.4089 | AUC: 0.6305
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378383   61774
+Fraud          22    5378
+Recall: 0.9959 | Precision: 0.0801
+F1: 0.1483 | AUC: 0.9278
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126244   20475
+Fraud          53    1747
+Recall: 0.9706 | Precision: 0.0786
+F1: 0.1455 | AUC: 0.9155
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378383   61774
+Fraud          34    5366
+Recall: 0.9937 | Precision: 0.0799
+F1: 0.1479 | AUC: 0.9267
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126245   20474
+Fraud          75    1725
+Recall: 0.9583 | Precision: 0.0777
+F1: 0.1438 | AUC: 0.9094
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3877    1523
+Recall: 0.2820 | Precision: 0.9639
+F1: 0.4364 | AUC: 0.6410
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146689      30
+Fraud        1322     478
+Recall: 0.2656 | Precision: 0.9409
+F1: 0.4142 | AUC: 0.6327
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.08, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3889    1511
+Recall: 0.2798 | Precision: 0.9636
+F1: 0.4337 | AUC: 0.6398
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1344     456
+Recall: 0.2533 | Precision: 0.9402
+F1: 0.3991 | AUC: 0.6266
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3877    1523
+Recall: 0.2820 | Precision: 0.9639
+F1: 0.4364 | AUC: 0.6410
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146689      30
+Fraud        1322     478
+Recall: 0.2656 | Precision: 0.9409
+F1: 0.4142 | AUC: 0.6327
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3889    1511
+Recall: 0.2798 | Precision: 0.9636
+F1: 0.4337 | AUC: 0.6398
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1344     456
+Recall: 0.2533 | Precision: 0.9402
+F1: 0.3991 | AUC: 0.6266
+
+Evaluating: {'eps': 4.0, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378383   61774
+Fraud          19    5381
+Recall: 0.9965 | Precision: 0.0801
+F1: 0.1483 | AUC: 0.9281
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126244   20475
+Fraud          71    1729
+Recall: 0.9606 | Precision: 0.0779
+F1: 0.1441 | AUC: 0.9105
+
+Evaluating: {'eps': 4.0, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378383   61774
+Fraud          25    5375
+Recall: 0.9954 | Precision: 0.0800
+F1: 0.1482 | AUC: 0.9275
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126245   20474
+Fraud          89    1711
+Recall: 0.9506 | Precision: 0.0771
+F1: 0.1427 | AUC: 0.9055
+
+Evaluating: {'eps': 4.0, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3874    1526
+Recall: 0.2826 | Precision: 0.9640
+F1: 0.4371 | AUC: 0.6412
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146689      30
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9388
+F1: 0.4017 | AUC: 0.6277
+
+Evaluating: {'eps': 4.0, 'fraud_threshold': 0.08, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3880    1520
+Recall: 0.2815 | Precision: 0.9639
+F1: 0.4357 | AUC: 0.6407
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1358     442
+Recall: 0.2456 | Precision: 0.9384
+F1: 0.3893 | AUC: 0.6227
+
+Evaluating: {'eps': 4.0, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3874    1526
+Recall: 0.2826 | Precision: 0.9640
+F1: 0.4371 | AUC: 0.6412
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146689      30
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9388
+F1: 0.4017 | AUC: 0.6277
+
+Evaluating: {'eps': 4.0, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440100      57
+Fraud        3880    1520
+Recall: 0.2815 | Precision: 0.9639
+F1: 0.4357 | AUC: 0.6407
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1358     442
+Recall: 0.2456 | Precision: 0.9384
+F1: 0.3893 | AUC: 0.6227
+
+=== BEST MODEL ===
+Parameters: eps=3.0, min_samples=3, threshold=0.08
+Test F1: 0.4171 | Recall: 0.2678
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.06, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          22    5378
+Recall: 0.9959 | Precision: 0.0804
+F1: 0.1488 | AUC: 0.9281
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125983   20736
+Fraud          35    1765
+Recall: 0.9806 | Precision: 0.0784
+F1: 0.1453 | AUC: 0.9196
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.06, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          36    5364
+Recall: 0.9933 | Precision: 0.0802
+F1: 0.1484 | AUC: 0.9268
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125983   20736
+Fraud          52    1748
+Recall: 0.9711 | Precision: 0.0777
+F1: 0.1440 | AUC: 0.9149
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.06, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          44    5356
+Recall: 0.9919 | Precision: 0.0801
+F1: 0.1482 | AUC: 0.9260
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125983   20736
+Fraud          61    1739
+Recall: 0.9661 | Precision: 0.0774
+F1: 0.1433 | AUC: 0.9124
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.07, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          22    5378
+Recall: 0.9959 | Precision: 0.0804
+F1: 0.1488 | AUC: 0.9281
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125983   20736
+Fraud          35    1765
+Recall: 0.9806 | Precision: 0.0784
+F1: 0.1453 | AUC: 0.9196
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.07, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          36    5364
+Recall: 0.9933 | Precision: 0.0802
+F1: 0.1484 | AUC: 0.9268
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125983   20736
+Fraud          52    1748
+Recall: 0.9711 | Precision: 0.0777
+F1: 0.1440 | AUC: 0.9149
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.07, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          44    5356
+Recall: 0.9919 | Precision: 0.0801
+F1: 0.1482 | AUC: 0.9260
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125983   20736
+Fraud          61    1739
+Recall: 0.9661 | Precision: 0.0774
+F1: 0.1433 | AUC: 0.9124
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.08, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3849    1551
+Recall: 0.2872 | Precision: 0.9634
+F1: 0.4425 | AUC: 0.6435
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146691      28
+Fraud        1332     468
+Recall: 0.2600 | Precision: 0.9435
+F1: 0.4077 | AUC: 0.6299
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3863    1537
+Recall: 0.2846 | Precision: 0.9630
+F1: 0.4394 | AUC: 0.6422
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146691      28
+Fraud        1349     451
+Recall: 0.2506 | Precision: 0.9415
+F1: 0.3958 | AUC: 0.6252
+
+Evaluating: {'eps': 3.2, 'fraud_threshold': 0.08, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3871    1529
+Recall: 0.2831 | Precision: 0.9628
+F1: 0.4376 | AUC: 0.6415
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146691      28
+Fraud        1358     442
+Recall: 0.2456 | Precision: 0.9404
+F1: 0.3894 | AUC: 0.6227
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.06, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          18    5382
+Recall: 0.9967 | Precision: 0.0805
+F1: 0.1489 | AUC: 0.9285
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          34    1766
+Recall: 0.9811 | Precision: 0.0785
+F1: 0.1453 | AUC: 0.9199
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.06, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          28    5372
+Recall: 0.9948 | Precision: 0.0803
+F1: 0.1486 | AUC: 0.9275
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          64    1736
+Recall: 0.9644 | Precision: 0.0772
+F1: 0.1430 | AUC: 0.9116
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.06, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          30    5370
+Recall: 0.9944 | Precision: 0.0803
+F1: 0.1486 | AUC: 0.9273
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          57    1743
+Recall: 0.9683 | Precision: 0.0775
+F1: 0.1436 | AUC: 0.9135
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.07, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          18    5382
+Recall: 0.9967 | Precision: 0.0805
+F1: 0.1489 | AUC: 0.9285
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          34    1766
+Recall: 0.9811 | Precision: 0.0785
+F1: 0.1453 | AUC: 0.9199
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.07, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          28    5372
+Recall: 0.9948 | Precision: 0.0803
+F1: 0.1486 | AUC: 0.9275
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          64    1736
+Recall: 0.9644 | Precision: 0.0772
+F1: 0.1430 | AUC: 0.9116
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.07, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          30    5370
+Recall: 0.9944 | Precision: 0.0803
+F1: 0.1486 | AUC: 0.9273
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          57    1743
+Recall: 0.9683 | Precision: 0.0775
+F1: 0.1436 | AUC: 0.9135
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.08, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3845    1555
+Recall: 0.2880 | Precision: 0.9634
+F1: 0.4434 | AUC: 0.6439
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1331     469
+Recall: 0.2606 | Precision: 0.9418
+F1: 0.4082 | AUC: 0.6302
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3855    1545
+Recall: 0.2861 | Precision: 0.9632
+F1: 0.4412 | AUC: 0.6430
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1361     439
+Recall: 0.2439 | Precision: 0.9380
+F1: 0.3871 | AUC: 0.6218
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.08, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3857    1543
+Recall: 0.2857 | Precision: 0.9632
+F1: 0.4407 | AUC: 0.6428
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1354     446
+Recall: 0.2478 | Precision: 0.9389
+F1: 0.3921 | AUC: 0.6238
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.06, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          11    5389
+Recall: 0.9980 | Precision: 0.0806
+F1: 0.1491 | AUC: 0.9291
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          46    1754
+Recall: 0.9744 | Precision: 0.0780
+F1: 0.1444 | AUC: 0.9166
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.06, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          19    5381
+Recall: 0.9965 | Precision: 0.0804
+F1: 0.1489 | AUC: 0.9284
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          67    1733
+Recall: 0.9628 | Precision: 0.0771
+F1: 0.1428 | AUC: 0.9107
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.06, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          21    5379
+Recall: 0.9961 | Precision: 0.0804
+F1: 0.1488 | AUC: 0.9282
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          66    1734
+Recall: 0.9633 | Precision: 0.0772
+F1: 0.1429 | AUC: 0.9110
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.07, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          11    5389
+Recall: 0.9980 | Precision: 0.0806
+F1: 0.1491 | AUC: 0.9291
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          46    1754
+Recall: 0.9744 | Precision: 0.0780
+F1: 0.1444 | AUC: 0.9166
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.07, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          19    5381
+Recall: 0.9965 | Precision: 0.0804
+F1: 0.1489 | AUC: 0.9284
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          67    1733
+Recall: 0.9628 | Precision: 0.0771
+F1: 0.1428 | AUC: 0.9107
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.07, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378644   61513
+Fraud          21    5379
+Recall: 0.9961 | Precision: 0.0804
+F1: 0.1488 | AUC: 0.9282
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125982   20737
+Fraud          66    1734
+Recall: 0.9633 | Precision: 0.0772
+F1: 0.1429 | AUC: 0.9110
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.08, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3838    1562
+Recall: 0.2893 | Precision: 0.9636
+F1: 0.4450 | AUC: 0.6446
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1343     457
+Recall: 0.2539 | Precision: 0.9403
+F1: 0.3998 | AUC: 0.6268
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.08, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3846    1554
+Recall: 0.2878 | Precision: 0.9634
+F1: 0.4432 | AUC: 0.6438
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1364     436
+Recall: 0.2422 | Precision: 0.9376
+F1: 0.3850 | AUC: 0.6210
+
+Evaluating: {'eps': 3.8, 'fraud_threshold': 0.08, 'min_samples': 4}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440098      59
+Fraud        3848    1552
+Recall: 0.2874 | Precision: 0.9634
+F1: 0.4427 | AUC: 0.6436
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146690      29
+Fraud        1363     437
+Recall: 0.2428 | Precision: 0.9378
+F1: 0.3857 | AUC: 0.6213
+
+=== BEST MODEL ===
+Parameters: eps=3.5, min_samples=2, threshold=0.08
+Test F1: 0.4082 | Recall: 0.2606
+
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398345   41812
+Fraud        1644    3756
+Recall: 0.6956 | Precision: 0.0824
+F1: 0.1474 | AUC: 0.8003
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132982   13737
+Fraud         986     814
+Recall: 0.4522 | Precision: 0.0559
+F1: 0.0996 | AUC: 0.6793
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  419923   20234
+Fraud        3278    2122
+Recall: 0.3930 | Precision: 0.0949
+F1: 0.1529 | AUC: 0.6735
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  140193    6526
+Fraud        1453     347
+Recall: 0.1928 | Precision: 0.0505
+F1: 0.0800 | AUC: 0.5741
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.05, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  420306   19851
+Fraud        4300    1100
+Recall: 0.2037 | Precision: 0.0525
+F1: 0.0835 | AUC: 0.5793
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  140685    6034
+Fraud        1623     177
+Recall: 0.0983 | Precision: 0.0285
+F1: 0.0442 | AUC: 0.5286
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440062      95
+Fraud        4394    1006
+Recall: 0.1863 | Precision: 0.9137
+F1: 0.3095 | AUC: 0.5930
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146571     148
+Fraud        1583     217
+Recall: 0.1206 | Precision: 0.5945
+F1: 0.2005 | AUC: 0.5598
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440040     117
+Fraud        4761     639
+Recall: 0.1183 | Precision: 0.8452
+F1: 0.2076 | AUC: 0.5590
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146534     185
+Fraud        1710      90
+Recall: 0.0500 | Precision: 0.3273
+F1: 0.0867 | AUC: 0.5244
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.1, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  439982     175
+Fraud        5272     128
+Recall: 0.0237 | Precision: 0.4224
+F1: 0.0449 | AUC: 0.5117
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146556     163
+Fraud        1778      22
+Recall: 0.0122 | Precision: 0.1189
+F1: 0.0222 | AUC: 0.5056
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440062      95
+Fraud        4394    1006
+Recall: 0.1863 | Precision: 0.9137
+F1: 0.3095 | AUC: 0.5930
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146571     148
+Fraud        1583     217
+Recall: 0.1206 | Precision: 0.5945
+F1: 0.2005 | AUC: 0.5598
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440052     105
+Fraud        4763     637
+Recall: 0.1180 | Precision: 0.8585
+F1: 0.2074 | AUC: 0.5589
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146554     165
+Fraud        1713      87
+Recall: 0.0483 | Precision: 0.3452
+F1: 0.0848 | AUC: 0.5236
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.15, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440052     105
+Fraud        5281     119
+Recall: 0.0220 | Precision: 0.5312
+F1: 0.0423 | AUC: 0.5109
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146583     136
+Fraud        1782      18
+Recall: 0.0100 | Precision: 0.1169
+F1: 0.0184 | AUC: 0.5045
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.2, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440070      87
+Fraud        4396    1004
+Recall: 0.1859 | Precision: 0.9203
+F1: 0.3094 | AUC: 0.5929
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146582     137
+Fraud        1584     216
+Recall: 0.1200 | Precision: 0.6119
+F1: 0.2007 | AUC: 0.5595
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.2, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440052     105
+Fraud        4763     637
+Recall: 0.1180 | Precision: 0.8585
+F1: 0.2074 | AUC: 0.5589
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146554     165
+Fraud        1713      87
+Recall: 0.0483 | Precision: 0.3452
+F1: 0.0848 | AUC: 0.5236
+
+Evaluating: {'eps': 0.5, 'fraud_threshold': 0.2, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440088      69
+Fraud        5289     111
+Recall: 0.0206 | Precision: 0.6167
+F1: 0.0398 | AUC: 0.5102
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146590     129
+Fraud        1785      15
+Recall: 0.0083 | Precision: 0.1042
+F1: 0.0154 | AUC: 0.5037
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398170   41987
+Fraud         413    4987
+Recall: 0.9235 | Precision: 0.1062
+F1: 0.1904 | AUC: 0.9141
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132707   14012
+Fraud         254    1546
+Recall: 0.8589 | Precision: 0.0994
+F1: 0.1781 | AUC: 0.8817
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398438   41719
+Fraud         606    4794
+Recall: 0.8878 | Precision: 0.1031
+F1: 0.1847 | AUC: 0.8965
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132462   14257
+Fraud         460    1340
+Recall: 0.7444 | Precision: 0.0859
+F1: 0.1540 | AUC: 0.8236
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.05, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398457   41700
+Fraud         926    4474
+Recall: 0.8285 | Precision: 0.0969
+F1: 0.1735 | AUC: 0.8669
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132488   14231
+Fraud         690    1110
+Recall: 0.6167 | Precision: 0.0724
+F1: 0.1295 | AUC: 0.7598
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  419839   20318
+Fraud        1707    3693
+Recall: 0.6839 | Precision: 0.1538
+F1: 0.2511 | AUC: 0.8189
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  139796    6923
+Fraud         696    1104
+Recall: 0.6133 | Precision: 0.1375
+F1: 0.2247 | AUC: 0.7831
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  419850   20307
+Fraud        1899    3501
+Recall: 0.6483 | Precision: 0.1471
+F1: 0.2397 | AUC: 0.8011
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  139807    6912
+Fraud         864     936
+Recall: 0.5200 | Precision: 0.1193
+F1: 0.1940 | AUC: 0.7364
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.1, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  419868   20289
+Fraud        2199    3201
+Recall: 0.5928 | Precision: 0.1363
+F1: 0.2216 | AUC: 0.7733
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  139811    6908
+Fraud        1026     774
+Recall: 0.4300 | Precision: 0.1008
+F1: 0.1633 | AUC: 0.6915
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440073      84
+Fraud        4065    1335
+Recall: 0.2472 | Precision: 0.9408
+F1: 0.3916 | AUC: 0.6235
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146698      21
+Fraud        1454     346
+Recall: 0.1922 | Precision: 0.9428
+F1: 0.3193 | AUC: 0.5960
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440084      73
+Fraud        4255    1145
+Recall: 0.2120 | Precision: 0.9401
+F1: 0.3460 | AUC: 0.6059
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146709      10
+Fraud        1611     189
+Recall: 0.1050 | Precision: 0.9497
+F1: 0.1891 | AUC: 0.5525
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.15, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440102      55
+Fraud        4534     866
+Recall: 0.1604 | Precision: 0.9403
+F1: 0.2740 | AUC: 0.5801
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146707      12
+Fraud        1727      73
+Recall: 0.0406 | Precision: 0.8588
+F1: 0.0775 | AUC: 0.5202
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.2, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440073      84
+Fraud        4065    1335
+Recall: 0.2472 | Precision: 0.9408
+F1: 0.3916 | AUC: 0.6235
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146698      21
+Fraud        1454     346
+Recall: 0.1922 | Precision: 0.9428
+F1: 0.3193 | AUC: 0.5960
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.2, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440084      73
+Fraud        4255    1145
+Recall: 0.2120 | Precision: 0.9401
+F1: 0.3460 | AUC: 0.6059
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146709      10
+Fraud        1611     189
+Recall: 0.1050 | Precision: 0.9497
+F1: 0.1891 | AUC: 0.5525
+
+Evaluating: {'eps': 1.0, 'fraud_threshold': 0.2, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440102      55
+Fraud        4534     866
+Recall: 0.1604 | Precision: 0.9403
+F1: 0.2740 | AUC: 0.5801
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146707      12
+Fraud        1727      73
+Recall: 0.0406 | Precision: 0.8588
+F1: 0.0775 | AUC: 0.5202
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398419   41738
+Fraud         204    5196
+Recall: 0.9622 | Precision: 0.1107
+F1: 0.1986 | AUC: 0.9337
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132440   14279
+Fraud         149    1651
+Recall: 0.9172 | Precision: 0.1036
+F1: 0.1862 | AUC: 0.9100
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398421   41736
+Fraud         335    5065
+Recall: 0.9380 | Precision: 0.1082
+F1: 0.1941 | AUC: 0.9216
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132441   14278
+Fraud         193    1607
+Recall: 0.8928 | Precision: 0.1012
+F1: 0.1817 | AUC: 0.8977
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.05, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398434   41723
+Fraud         523    4877
+Recall: 0.9031 | Precision: 0.1047
+F1: 0.1876 | AUC: 0.9042
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132453   14266
+Fraud         387    1413
+Recall: 0.7850 | Precision: 0.0901
+F1: 0.1617 | AUC: 0.8439
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398419   41738
+Fraud         204    5196
+Recall: 0.9622 | Precision: 0.1107
+F1: 0.1986 | AUC: 0.9337
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132440   14279
+Fraud         149    1651
+Recall: 0.9172 | Precision: 0.1036
+F1: 0.1862 | AUC: 0.9100
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398421   41736
+Fraud         335    5065
+Recall: 0.9380 | Precision: 0.1082
+F1: 0.1941 | AUC: 0.9216
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132441   14278
+Fraud         193    1607
+Recall: 0.8928 | Precision: 0.1012
+F1: 0.1817 | AUC: 0.8977
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.1, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  398434   41723
+Fraud         523    4877
+Recall: 0.9031 | Precision: 0.1047
+F1: 0.1876 | AUC: 0.9042
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  132453   14266
+Fraud         387    1413
+Recall: 0.7850 | Precision: 0.0901
+F1: 0.1617 | AUC: 0.8439
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440094      63
+Fraud        4047    1353
+Recall: 0.2506 | Precision: 0.9555
+F1: 0.3970 | AUC: 0.6252
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1391     409
+Recall: 0.2272 | Precision: 0.9624
+F1: 0.3676 | AUC: 0.6136
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440096      61
+Fraud        4168    1232
+Recall: 0.2281 | Precision: 0.9528
+F1: 0.3681 | AUC: 0.6140
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1433     367
+Recall: 0.2039 | Precision: 0.9582
+F1: 0.3362 | AUC: 0.6019
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.15, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440109      48
+Fraud        4353    1047
+Recall: 0.1939 | Precision: 0.9562
+F1: 0.3224 | AUC: 0.5969
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146707      12
+Fraud        1591     209
+Recall: 0.1161 | Precision: 0.9457
+F1: 0.2068 | AUC: 0.5580
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.2, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440094      63
+Fraud        4047    1353
+Recall: 0.2506 | Precision: 0.9555
+F1: 0.3970 | AUC: 0.6252
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1391     409
+Recall: 0.2272 | Precision: 0.9624
+F1: 0.3676 | AUC: 0.6136
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.2, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440096      61
+Fraud        4168    1232
+Recall: 0.2281 | Precision: 0.9528
+F1: 0.3681 | AUC: 0.6140
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1433     367
+Recall: 0.2039 | Precision: 0.9582
+F1: 0.3362 | AUC: 0.6019
+
+Evaluating: {'eps': 1.5, 'fraud_threshold': 0.2, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440109      48
+Fraud        4353    1047
+Recall: 0.1939 | Precision: 0.9562
+F1: 0.3224 | AUC: 0.5969
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146707      12
+Fraud        1591     209
+Recall: 0.1161 | Precision: 0.9457
+F1: 0.2068 | AUC: 0.5580
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378774   61383
+Fraud         120    5280
+Recall: 0.9778 | Precision: 0.0792
+F1: 0.1465 | AUC: 0.9192
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125856   20863
+Fraud          93    1707
+Recall: 0.9483 | Precision: 0.0756
+F1: 0.1401 | AUC: 0.9031
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378776   61381
+Fraud         207    5193
+Recall: 0.9617 | Precision: 0.0780
+F1: 0.1443 | AUC: 0.9111
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125857   20862
+Fraud         147    1653
+Recall: 0.9183 | Precision: 0.0734
+F1: 0.1360 | AUC: 0.8881
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.05, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378785   61372
+Fraud         392    5008
+Recall: 0.9274 | Precision: 0.0754
+F1: 0.1395 | AUC: 0.8940
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125860   20859
+Fraud         214    1586
+Recall: 0.8811 | Precision: 0.0707
+F1: 0.1308 | AUC: 0.8695
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146702      17
+Fraud        1369     431
+Recall: 0.2394 | Precision: 0.9621
+F1: 0.3835 | AUC: 0.6197
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        4051    1349
+Recall: 0.2498 | Precision: 0.9540
+F1: 0.3959 | AUC: 0.6248
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1422     378
+Recall: 0.2100 | Precision: 0.9594
+F1: 0.3446 | AUC: 0.6049
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.1, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440099      58
+Fraud        4233    1167
+Recall: 0.2161 | Precision: 0.9527
+F1: 0.3523 | AUC: 0.6080
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146706      13
+Fraud        1484     316
+Recall: 0.1756 | Precision: 0.9605
+F1: 0.2969 | AUC: 0.5877
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146702      17
+Fraud        1369     431
+Recall: 0.2394 | Precision: 0.9621
+F1: 0.3835 | AUC: 0.6197
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        4051    1349
+Recall: 0.2498 | Precision: 0.9540
+F1: 0.3959 | AUC: 0.6248
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1422     378
+Recall: 0.2100 | Precision: 0.9594
+F1: 0.3446 | AUC: 0.6049
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.15, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440099      58
+Fraud        4233    1167
+Recall: 0.2161 | Precision: 0.9527
+F1: 0.3523 | AUC: 0.6080
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146706      13
+Fraud        1484     316
+Recall: 0.1756 | Precision: 0.9605
+F1: 0.2969 | AUC: 0.5877
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.2, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146702      17
+Fraud        1369     431
+Recall: 0.2394 | Precision: 0.9621
+F1: 0.3835 | AUC: 0.6197
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.2, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        4051    1349
+Recall: 0.2498 | Precision: 0.9540
+F1: 0.3959 | AUC: 0.6248
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1422     378
+Recall: 0.2100 | Precision: 0.9594
+F1: 0.3446 | AUC: 0.6049
+
+Evaluating: {'eps': 2.0, 'fraud_threshold': 0.2, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440099      58
+Fraud        4233    1167
+Recall: 0.2161 | Precision: 0.9527
+F1: 0.3523 | AUC: 0.6080
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146706      13
+Fraud        1484     316
+Recall: 0.1756 | Precision: 0.9605
+F1: 0.2969 | AUC: 0.5877
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.05, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378773   61384
+Fraud          67    5333
+Recall: 0.9876 | Precision: 0.0799
+F1: 0.1479 | AUC: 0.9241
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125855   20864
+Fraud          60    1740
+Recall: 0.9667 | Precision: 0.0770
+F1: 0.1426 | AUC: 0.9122
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.05, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378774   61383
+Fraud         120    5280
+Recall: 0.9778 | Precision: 0.0792
+F1: 0.1465 | AUC: 0.9192
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125857   20862
+Fraud         104    1696
+Recall: 0.9422 | Precision: 0.0752
+F1: 0.1393 | AUC: 0.9000
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.05, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378776   61381
+Fraud         299    5101
+Recall: 0.9446 | Precision: 0.0767
+F1: 0.1419 | AUC: 0.9026
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125857   20862
+Fraud         140    1660
+Recall: 0.9222 | Precision: 0.0737
+F1: 0.1365 | AUC: 0.8900
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.1, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3911    1489
+Recall: 0.2757 | Precision: 0.9563
+F1: 0.4281 | AUC: 0.6378
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9623
+F1: 0.4039 | AUC: 0.6277
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.1, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1384     416
+Recall: 0.2311 | Precision: 0.9630
+F1: 0.3728 | AUC: 0.6155
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.1, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        4143    1257
+Recall: 0.2328 | Precision: 0.9508
+F1: 0.3740 | AUC: 0.6163
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1417     383
+Recall: 0.2128 | Precision: 0.9599
+F1: 0.3483 | AUC: 0.6063
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.15, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3911    1489
+Recall: 0.2757 | Precision: 0.9563
+F1: 0.4281 | AUC: 0.6378
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9623
+F1: 0.4039 | AUC: 0.6277
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.15, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1384     416
+Recall: 0.2311 | Precision: 0.9630
+F1: 0.3728 | AUC: 0.6155
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.15, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        4143    1257
+Recall: 0.2328 | Precision: 0.9508
+F1: 0.3740 | AUC: 0.6163
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1417     383
+Recall: 0.2128 | Precision: 0.9599
+F1: 0.3483 | AUC: 0.6063
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.2, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440089      68
+Fraud        3911    1489
+Recall: 0.2757 | Precision: 0.9563
+F1: 0.4281 | AUC: 0.6378
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146701      18
+Fraud        1340     460
+Recall: 0.2556 | Precision: 0.9623
+F1: 0.4039 | AUC: 0.6277
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.2, 'min_samples': 5}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440090      67
+Fraud        3964    1436
+Recall: 0.2659 | Precision: 0.9554
+F1: 0.4161 | AUC: 0.6329
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1384     416
+Recall: 0.2311 | Precision: 0.9630
+F1: 0.3728 | AUC: 0.6155
+
+Evaluating: {'eps': 2.5, 'fraud_threshold': 0.2, 'min_samples': 10}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        4143    1257
+Recall: 0.2328 | Precision: 0.9508
+F1: 0.3740 | AUC: 0.6163
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146703      16
+Fraud        1417     383
+Recall: 0.2128 | Precision: 0.9599
+F1: 0.3483 | AUC: 0.6063
+
+
+Evaluating: {'eps': 3.3, 'fraud_threshold': 0.07, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378640   61517
+Fraud          16    5384
+Recall: 0.9970 | Precision: 0.0805
+F1: 0.1489 | AUC: 0.9286
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125986   20733
+Fraud          72    1728
+Recall: 0.9600 | Precision: 0.0769
+F1: 0.1425 | AUC: 0.9093
+
+Evaluating: {'eps': 3.3, 'fraud_threshold': 0.07, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378640   61517
+Fraud          22    5378
+Recall: 0.9959 | Precision: 0.0804
+F1: 0.1488 | AUC: 0.9281
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  125986   20733
+Fraud          78    1722
+Recall: 0.9567 | Precision: 0.0767
+F1: 0.1420 | AUC: 0.9077
+
+Evaluating: {'eps': 3.3, 'fraud_threshold': 0.075, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440093      64
+Fraud        3875    1525
+Recall: 0.2824 | Precision: 0.9597
+F1: 0.4364 | AUC: 0.6411
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146695      24
+Fraud        1337     463
+Recall: 0.2572 | Precision: 0.9507
+F1: 0.4049 | AUC: 0.6285
+
+Evaluating: {'eps': 3.3, 'fraud_threshold': 0.07, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378556   61601
+Fraud          19    5381
+Recall: 0.9965 | Precision: 0.0803
+F1: 0.1487 | AUC: 0.9283
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126070   20649
+Fraud          38    1762
+Recall: 0.9789 | Precision: 0.0786
+F1: 0.1456 | AUC: 0.9191
+
+Evaluating: {'eps': 3.3, 'fraud_threshold': 0.07, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378556   61601
+Fraud          27    5373
+Recall: 0.9950 | Precision: 0.0802
+F1: 0.1485 | AUC: 0.9275
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126070   20649
+Fraud          48    1752
+Recall: 0.9733 | Precision: 0.0782
+F1: 0.1448 | AUC: 0.9163
+
+Evaluating: {'eps': 3.3, 'fraud_threshold': 0.075, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        3870    1530
+Recall: 0.2833 | Precision: 0.9592
+F1: 0.4375 | AUC: 0.6416
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146696      23
+Fraud        1311     489
+Recall: 0.2717 | Precision: 0.9551
+F1: 0.4230 | AUC: 0.6358
+
+Evaluating: {'eps': 3.3, 'fraud_threshold': 0.075, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        3878    1522
+Recall: 0.2819 | Precision: 0.9590
+F1: 0.4357 | AUC: 0.6409
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146696      23
+Fraud        1321     479
+Recall: 0.2661 | Precision: 0.9542
+F1: 0.4162 | AUC: 0.6330
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.07, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378556   61601
+Fraud          16    5384
+Recall: 0.9970 | Precision: 0.0804
+F1: 0.1488 | AUC: 0.9285
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126070   20649
+Fraud          37    1763
+Recall: 0.9794 | Precision: 0.0787
+F1: 0.1456 | AUC: 0.9194
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.07, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378556   61601
+Fraud          24    5376
+Recall: 0.9956 | Precision: 0.0803
+F1: 0.1486 | AUC: 0.9278
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126070   20649
+Fraud          54    1746
+Recall: 0.9700 | Precision: 0.0780
+F1: 0.1443 | AUC: 0.9146
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.075, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        3867    1533
+Recall: 0.2839 | Precision: 0.9593
+F1: 0.4381 | AUC: 0.6419
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146696      23
+Fraud        1310     490
+Recall: 0.2722 | Precision: 0.9552
+F1: 0.4237 | AUC: 0.6360
+
+Evaluating: {'eps': 3.5, 'fraud_threshold': 0.075, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        3875    1525
+Recall: 0.2824 | Precision: 0.9591
+F1: 0.4363 | AUC: 0.6411
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146696      23
+Fraud        1327     473
+Recall: 0.2628 | Precision: 0.9536
+F1: 0.4120 | AUC: 0.6313
+
+Evaluating: {'eps': 3.7, 'fraud_threshold': 0.07, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378556   61601
+Fraud          13    5387
+Recall: 0.9976 | Precision: 0.0804
+F1: 0.1488 | AUC: 0.9288
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126070   20649
+Fraud          48    1752
+Recall: 0.9733 | Precision: 0.0782
+F1: 0.1448 | AUC: 0.9163
+
+Evaluating: {'eps': 3.7, 'fraud_threshold': 0.07, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  378556   61601
+Fraud          21    5379
+Recall: 0.9961 | Precision: 0.0803
+F1: 0.1486 | AUC: 0.9281
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  126070   20649
+Fraud          76    1724
+Recall: 0.9578 | Precision: 0.0771
+F1: 0.1426 | AUC: 0.9085
+
+Evaluating: {'eps': 3.7, 'fraud_threshold': 0.075, 'min_samples': 2}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        3864    1536
+Recall: 0.2844 | Precision: 0.9594
+F1: 0.4388 | AUC: 0.6421
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146696      23
+Fraud        1321     479
+Recall: 0.2661 | Precision: 0.9542
+F1: 0.4162 | AUC: 0.6330
+
+Evaluating: {'eps': 3.7, 'fraud_threshold': 0.075, 'min_samples': 3}
+
+=== Training Results ===
+Training Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  440092      65
+Fraud        3872    1528
+Recall: 0.2830 | Precision: 0.9592
+F1: 0.4370 | AUC: 0.6414
+
+=== Test Results ===
+Test Confusion Matrix:
+         Predicted
+         Not Fraud  Fraud
+Actual
+Not Fraud  146696      23
+Fraud        1349     451
+Recall: 0.2506 | Precision: 0.9515
+F1: 0.3967 | AUC: 0.6252
