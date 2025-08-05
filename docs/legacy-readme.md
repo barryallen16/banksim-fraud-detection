@@ -1,0 +1,17 @@
+### Project Structure
+- `data-understanding` folder :
+    - contains all the notebook files used for explore and understand the dataset `banksim1`
+- `model-training` folder:
+    - contains all the notebook files used to train and evaluate the models
+    - gpu-accelerated:
+        - notebook-v1.ipynb & notebook-v2.ipynb: Initial DBSCAN experiments with StandardScaler.
+        - notebook-v3.ipynb: DBSCAN with RobustScaler to better handle outliers.
+        - notebook-v4-hdbscan.ipynb: An alternative approach using HDBSCAN.
+        - notebook-v5-dbscan-cross-val.ipynb: The final, most robust model using DBSCAN with 5-fold cross-validation.
+    - initial-notebooks
+        - `fraud_proj_notebookv2.ipynb`: Compares supervised models like Random Forest and XGBoost on undersampled data with unsupervised methods (K-Means, DBSCAN) for fraud detection.
+        - `fraud_proj_notebookv3.ipynb`: Applies and visualizes K-Means (with outlier detection) and DBSCAN clustering on the full dataset to identify and analyze fraudulent transactions.
+- `evaluation-results` folder:
+    - contains all the evaluation results of all the parameters that was evaluated evaluation evaluation evaluation 
+- `eval-best-model` folder:
+    - contains the notebook file for evaluating the best found param across 5 cross folds.
